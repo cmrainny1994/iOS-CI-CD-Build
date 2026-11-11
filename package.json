@@ -1,0 +1,16 @@
+{
+  "name": "jump-rope-10-lanes",
+  "version": "0.3.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "build": "node tools/build.mjs"
+  },
+  "dependencies": {
+    "@mediapipe/tasks-vision": "0.10.14"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.12"
+  }
+}

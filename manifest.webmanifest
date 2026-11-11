@@ -1,0 +1,12 @@
+{
+  "name": "多人跳绳计数助手",
+  "short_name": "跳绳计数",
+  "description": "单部 iPhone 多人跳绳训练计数与成绩复核工具",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07101c",
+  "theme_color": "#081421",
+  "orientation": "any",
+  "icons": [{ "src": "./icon.svg", "type": "image/svg+xml", "sizes": "any", "purpose": "any" }]
+}
